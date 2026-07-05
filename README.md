@@ -1,4 +1,5 @@
 # uCosyVoice
+在unity上测试了一下，3060Ti电脑上巨慢无比
 
 [CosyVoice3](https://github.com/FunAudioLLM/CosyVoice)のテキスト音声合成をUnity AI Interface（Sentis）でONNX推論するUnity実装です。
 
